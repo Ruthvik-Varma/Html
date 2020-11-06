@@ -1,4 +1,0 @@
-<!DOCTYPE html>
-<html>
-<h1>The html tag wrap</h1>
- </html>
